@@ -3,4 +3,4 @@
 # Меня зовут Ирина, я студентка Высшей Школы Экономики
 # Пришла на первый семинар по цифровой грамотности и ничего не понимаю
 # В детстве хотела стать принцессой но что-то 
-# 1[alt-текст](https://github.com/xristi4irina/myrepository/blob/master/h716vc.jpg)
+# 1[alt-текст](https://github.com/xristi4irina/myrepository/blob/master/h716vc.jpg
